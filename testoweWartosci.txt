@@ -1,0 +1,5 @@
+Kolumna_1   Pacjent_1   Pacjent_2   Kontrola_1  Kontrola_2
+Gen_1	1	1	1	1
+Gen_2	2	2	2	2
+Gen_3	1	2	3	4
+Gen_4	4	3 	12	11
